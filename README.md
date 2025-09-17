@@ -1,5 +1,5 @@
 
-# 📄 AI Resume Analyzer & Candidate Fit Dashboard
+# 📄 AI Resume Analyzer & Job Matching System
 
 An **AI-powered system** that analyzes resumes, compares them with job descriptions, and generates **candidate fit insights**. It extracts skills, evaluates similarity, visualizes results with **Resume vs Job Fit Radar**, and exports recruiter-ready summaries as PDFs.
 
@@ -79,3 +79,4 @@ and business intelligence tools.
 
 
 👉 Do you also want me to generate the **requirements.txt** so you can directly push it with this README?
+
